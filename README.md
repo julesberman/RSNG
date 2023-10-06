@@ -17,3 +17,7 @@ Install all additionaly required packages run:
  pip install -r requirements.txt
 ```
 
+Then you should be able to run the included notebooks:
+
+- allen_cahn.ipynb
+- burgers.ipynb
